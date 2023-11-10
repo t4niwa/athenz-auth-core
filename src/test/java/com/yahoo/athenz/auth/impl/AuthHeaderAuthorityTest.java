@@ -39,7 +39,7 @@ public class AuthHeaderAuthorityTest {
     @Test
     public void testAllowAuthorization() {
         AuthHeaderAuthority aha = new AuthHeaderAuthority();
-        assertFalse(aha.allowAuthorization());
+        assertTrue(aha.allowAuthorization());
     }
 
     @Test

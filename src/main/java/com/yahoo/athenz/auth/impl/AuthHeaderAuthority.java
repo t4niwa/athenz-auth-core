@@ -51,7 +51,7 @@ public class AuthHeaderAuthority implements Authority {
 
     @Override
     public boolean allowAuthorization() {
-        return false;
+        return true;
     }
 
     @Override
