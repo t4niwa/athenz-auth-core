@@ -63,6 +63,12 @@
       <artifactId>athenz-auth-core</artifactId>
       <version>${athenz.version}</version>
     </dependency>
+    <!-- https://mvnrepository.com/artifact/com.yahoo.athenz/athenz-instance-provider -->
+    <dependency>
+      <groupId>com.yahoo.athenz</groupId>
+      <artifactId>athenz-instance-provider</artifactId>
+      <version>${athenz.version}</version>
+    </dependency>
     <!-- https://mvnrepository.com/artifact/org.springframework.security/spring-security-web -->
     <dependency>
       <groupId>org.springframework.security</groupId>
