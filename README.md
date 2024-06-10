@@ -2,7 +2,7 @@
 
 This is an unofficial repository to provide tools, packages and instructions for [Athenz](https://www.athenz.io).
 
-It is currently owned and maintained by [ctyano](https://github.com/ctyano).
+It is currently owned and maintained by [t4niwa](https://github.com/t4niwa).
 
 ## How to build
 
@@ -16,9 +16,9 @@ docker build --build-arg VERSION=${VERSION:-0.0.0} --build-arg ATHENZ_VERSION=${
 
 ### Docker(OCI) Image
 
-[athenz-auth-core](https://github.com/users/ctyano/packages/container/package/athenz-auth-core)
+[athenz-auth-core](https://github.com/users/t4niwa/packages/container/package/athenz-auth-core)
 
 ### JAR class package
 
-https://github.com/ctyano/athenz-auth-core/releases
+https://github.com/t4niwa/athenz-auth-core/releases
 
